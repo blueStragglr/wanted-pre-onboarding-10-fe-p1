@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "wanted-pre-onboarding-fe-practices",
-=======
-  "name": "wanted-pre-onboarding-3-fe-practices",
->>>>>>> initialize with practice 1 (Mock API)
   "private": true,
   "version": "0.0.0",
   "type": "module",
