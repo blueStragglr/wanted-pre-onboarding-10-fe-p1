@@ -11,6 +11,6 @@
 
 ## 실습 수행 방법
 
-pages 아래에 있는 LoginWithMockAPI.tsx 파일을 읽고 과제를 수행해 주세요.
+pages 아래에 있는 LoginWithMockAPI.jsx 파일을 읽고 과제를 수행해 주세요.
 
 *실습은 제출하지 않습니다.
